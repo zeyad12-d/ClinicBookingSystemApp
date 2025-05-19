@@ -1,0 +1,10 @@
+﻿@model List<ClinicBookingSystemAPP.Models.Department>
+
+<h2>الأقسام المتاحة</h2>
+
+<ul>
+    @foreach (var dept in Model)
+    {
+        <li>@dept.Name</li>
+    }
+</ul>

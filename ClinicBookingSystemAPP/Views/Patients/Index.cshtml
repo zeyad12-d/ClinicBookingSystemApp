@@ -1,0 +1,38 @@
+﻿@model IEnumerable<ClinicBookingSystemAPP.Models.Patient>
+
+@{
+    ViewData["Title"] = "Patients List";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Add New Patient</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Full Name</th>
+            <th>Phone Number</th>
+            <th>Email</th>
+            <th>Date of Birth</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var patient in Model)
+        {
+            <tr>
+                <td>@patient.FullName</td>
+                <td>@patient.Phone</td>
+                <td>@patient.Email</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@patient.Id">Details</a> |
+                    <a asp-action="Edit" asp-route-id="@patient.Id">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@patient.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

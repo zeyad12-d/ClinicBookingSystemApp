@@ -1,0 +1,21 @@
+﻿@model ClinicBookingSystemAPP.Models.Patient
+
+@{
+    ViewData["Title"] = "Delete Patient";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<h3>Are you sure you want to delete this patient?</h3>
+
+<div>
+    <h4>@Model.FullName</h4>
+    <p>Phone: @Model.Phone</p>
+    <p>Email: @Model.Email</p>
+</div>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
