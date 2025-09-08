@@ -1,16 +1,76 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/ClinicBookingSystemAPP/css/CreateAppoiments.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\CreateAppoiments.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wAbfQ\u002BC2v/rjRwreX0e3LNIV3RztOGQGY\u002BAQI0Peq\u002BI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1776"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022wAbfQ\u002BC2v/rjRwreX0e3LNIV3RztOGQGY\u002BAQI0Peq\u002BI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 18:43:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ClinicBookingSystemAPP/css/CreateAppoiments.kz0hyalbie.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\CreateAppoiments.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kz0hyalbie"},{"Name":"integrity","Value":"sha256-wAbfQ\u002BC2v/rjRwreX0e3LNIV3RztOGQGY\u002BAQI0Peq\u002BI="},{"Name":"label","Value":"_content/ClinicBookingSystemAPP/css/CreateAppoiments.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1776"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022wAbfQ\u002BC2v/rjRwreX0e3LNIV3RztOGQGY\u002BAQI0Peq\u002BI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 18:43:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ClinicBookingSystemAPP/css/patientCreate.8sd83nevja.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\patientCreate.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8sd83nevja"},{"Name":"integrity","Value":"sha256-OMnQ9lfrYK7KVMfCOe\u002BnHszZNaAZUDq98LR4pD/QGys="},{"Name":"label","Value":"_content/ClinicBookingSystemAPP/css/patientCreate.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1846"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022OMnQ9lfrYK7KVMfCOe\u002BnHszZNaAZUDq98LR4pD/QGys=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 17:16:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ClinicBookingSystemAPP/css/patientCreate.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\patientCreate.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OMnQ9lfrYK7KVMfCOe\u002BnHszZNaAZUDq98LR4pD/QGys="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1846"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022OMnQ9lfrYK7KVMfCOe\u002BnHszZNaAZUDq98LR4pD/QGys=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 17:16:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ClinicBookingSystemAPP/css/patientDelete.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\patientDelete.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6qPSy1FHg44d27\u002ByusnApR\u002Bm28G3EfPCuJPRfuH/aWc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1203"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226qPSy1FHg44d27\u002ByusnApR\u002Bm28G3EfPCuJPRfuH/aWc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 18:00:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ClinicBookingSystemAPP/css/patientDelete.yqq2oeims0.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\patientDelete.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yqq2oeims0"},{"Name":"integrity","Value":"sha256-6qPSy1FHg44d27\u002ByusnApR\u002Bm28G3EfPCuJPRfuH/aWc="},{"Name":"label","Value":"_content/ClinicBookingSystemAPP/css/patientDelete.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1203"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226qPSy1FHg44d27\u002ByusnApR\u002Bm28G3EfPCuJPRfuH/aWc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 18:00:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ClinicBookingSystemAPP/css/patientdetails.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\patientdetails.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jvK16f\u002BHXNqzTtDObwF1oDSCu8K0kYZUb\u002B21ot4q6Ck="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1213"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022jvK16f\u002BHXNqzTtDObwF1oDSCu8K0kYZUb\u002B21ot4q6Ck=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 17:48:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ClinicBookingSystemAPP/css/patientdetails.mbl2l0ct0f.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\patientdetails.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mbl2l0ct0f"},{"Name":"integrity","Value":"sha256-jvK16f\u002BHXNqzTtDObwF1oDSCu8K0kYZUb\u002B21ot4q6Ck="},{"Name":"label","Value":"_content/ClinicBookingSystemAPP/css/patientdetails.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1213"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022jvK16f\u002BHXNqzTtDObwF1oDSCu8K0kYZUb\u002B21ot4q6Ck=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 17:48:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ClinicBookingSystemAPP/css/PatientIndex.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\PatientIndex.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dTmZ/A6YQPYE98BM/YewmBP\u002BUle7gCNU/N4SVKLPxIA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1148"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dTmZ/A6YQPYE98BM/YewmBP\u002BUle7gCNU/N4SVKLPxIA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 17:31:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ClinicBookingSystemAPP/css/PatientIndex.lwqp19o43u.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\PatientIndex.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lwqp19o43u"},{"Name":"integrity","Value":"sha256-dTmZ/A6YQPYE98BM/YewmBP\u002BUle7gCNU/N4SVKLPxIA="},{"Name":"label","Value":"_content/ClinicBookingSystemAPP/css/PatientIndex.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1148"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dTmZ/A6YQPYE98BM/YewmBP\u002BUle7gCNU/N4SVKLPxIA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 17:31:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ClinicBookingSystemAPP/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-F1uPLJsVX12EfDrx0t6\u002B4SVKVhm5UOD8XEWI3qsqodE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"602"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022F1uPLJsVX12EfDrx0t6\u002B4SVKVhm5UOD8XEWI3qsqodE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 13:12:58 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-79mtNA4xBnhQqVpQK5C94AScRXcf/ws1h8VoNKWRmi8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1401"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u002279mtNA4xBnhQqVpQK5C94AScRXcf/ws1h8VoNKWRmi8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 22 May 2025 16:58:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ClinicBookingSystemAPP/css/site.tvjp4o94s3.css">
+    <StaticWebAssetEndpoint Include="_content/ClinicBookingSystemAPP/css/site.znxegasceo.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tvjp4o94s3"},{"Name":"integrity","Value":"sha256-F1uPLJsVX12EfDrx0t6\u002B4SVKVhm5UOD8XEWI3qsqodE="},{"Name":"label","Value":"_content/ClinicBookingSystemAPP/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"602"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022F1uPLJsVX12EfDrx0t6\u002B4SVKVhm5UOD8XEWI3qsqodE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 13:12:58 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"znxegasceo"},{"Name":"integrity","Value":"sha256-79mtNA4xBnhQqVpQK5C94AScRXcf/ws1h8VoNKWRmi8="},{"Name":"label","Value":"_content/ClinicBookingSystemAPP/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1401"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u002279mtNA4xBnhQqVpQK5C94AScRXcf/ws1h8VoNKWRmi8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 22 May 2025 16:58:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ClinicBookingSystemAPP/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>

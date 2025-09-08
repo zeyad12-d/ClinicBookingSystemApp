@@ -1,0 +1,63 @@
+﻿/* Title */
+.page-title {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #b22222;
+}
+
+/* Delete box */
+.delete-warning-box {
+    background-color: #fff3f3;
+    border: 1px solid #ffcccc;
+    padding: 25px;
+    border-radius: 10px;
+    max-width: 600px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+/* Warning message */
+.warning-text {
+    color: #cc0000;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+/* Patient summary */
+.patient-summary h4 {
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.patient-summary p {
+    margin: 0 0 5px;
+    color: #555;
+}
+
+/* Buttons */
+.btn-custom {
+    padding: 10px 16px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+    margin-right: 10px;
+    display: inline-block;
+    transition: background-color 0.3s;
+}
+
+    .btn-custom.danger {
+        background-color: #dc3545;
+        color: white;
+    }
+
+        .btn-custom.danger:hover {
+            background-color: #c82333;
+        }
+
+    .btn-custom.secondary {
+        background-color: #6c757d;
+        color: white;
+    }
+
+        .btn-custom.secondary:hover {
+            background-color: #5a6268;
+        }

@@ -1,33 +1,39 @@
 ﻿@model ClinicBookingSystemAPP.Models.Patient
 
 @{
-    ViewData["Title"] = "Edit Patient";
+   // ViewData["Title"] = "Edit Patient";
 }
 
-<h2>@ViewData["Title"]</h2>
 
-<form asp-action="Edit" method="post">
-    <input type="hidden" asp-for="Id" />
-    <div class="form-group">
-        <label asp-for="FullName"></label>
-        <input asp-for="FullName" class="form-control" />
-        <span asp-validation-for="FullName" class="text-danger"></span>
-    </div>
-    <div class="form-group">
-        <label asp-for="Phone"></label>
-        <input asp-for="Phone" class="form-control" />
-        <span asp-validation-for="Phone" class="text-danger"></span>
-    </div>
-    <div class="form-group">
-        <label asp-for="Email"></label>
-        <input asp-for="Email" class="form-control" />
-        <span asp-validation-for="Email" class="text-danger"></span>
-    </div>
-   
-    <button type="submit" class="btn btn-primary">Save Changes</button>
-    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
-</form>
 
+<link rel="stylesheet" href="~/css/patientCreate.css" />
+<div class="container">
+    <form method="post">
+        <div class="form-group">
+            <label for="fullName" class="form-label">Full Name</label>
+            <input type="text"
+                   id="fullName"
+                   name="fullName"
+                   class="form-control" />
+            <span class="text-danger">* Error message for full name *</span>
+        </div>
+
+        <div class="form-group">
+            <label for="phone" class="form-label">Phone</label>
+            <input type="text" id="phone" name="phone" class="form-control" />
+            <span class="text-danger">* Error message for phone *</span>
+        </div>
+
+        <div class="form-group">
+            <label for="email" class="form-label">Email</label>
+            <input type="email" id="email" name="email" class="form-control" />
+            <span class="text-danger">* Error message for email *</span>
+        </div>
+
+        <button type="submit" class="btn btn-success">SaveChanges</button>
+        <button class="btn btn-secondary">Cancel</button>
+    </form>
+</div>
 @section Scripts {
     @{
         await Html.RenderPartialAsync("_ValidationScriptsPartial");

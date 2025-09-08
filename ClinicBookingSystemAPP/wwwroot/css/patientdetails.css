@@ -1,0 +1,62 @@
+﻿/* Title */
+.page-title {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+/* Detail section */
+.patient-details {
+    background-color: #f9f9f9;
+    padding: 20px 25px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    max-width: 600px;
+}
+
+/* Description list styling */
+.details-list {
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    row-gap: 12px;
+    column-gap: 10px;
+}
+
+    .details-list dt {
+        font-weight: 600;
+        color: #444;
+    }
+
+    .details-list dd {
+        margin: 0;
+        color: #222;
+    }
+
+/* Buttons */
+.btn-custom {
+    padding: 10px 16px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: background-color 0.3s;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+    .btn-custom.primary {
+        background-color: #007bff;
+        color: white;
+    }
+
+        .btn-custom.primary:hover {
+            background-color: #0056b3;
+        }
+
+    .btn-custom.secondary {
+        background-color: #6c757d;
+        color: white;
+    }
+
+        .btn-custom.secondary:hover {
+            background-color: #5a6268;
+        }

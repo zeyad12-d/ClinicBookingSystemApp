@@ -1,6 +1,26 @@
 {
   "Files": [
     {
+      "Id": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\CreateAppoiments.css",
+      "PackagePath": "staticwebassets\\css\\CreateAppoiments.css"
+    },
+    {
+      "Id": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\PatientIndex.css",
+      "PackagePath": "staticwebassets\\css\\PatientIndex.css"
+    },
+    {
+      "Id": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\patientCreate.css",
+      "PackagePath": "staticwebassets\\css\\patientCreate.css"
+    },
+    {
+      "Id": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\patientDelete.css",
+      "PackagePath": "staticwebassets\\css\\patientDelete.css"
+    },
+    {
+      "Id": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\patientdetails.css",
+      "PackagePath": "staticwebassets\\css\\patientdetails.css"
+    },
+    {
       "Id": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

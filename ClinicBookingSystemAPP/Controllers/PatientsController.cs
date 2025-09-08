@@ -12,7 +12,7 @@ namespace ClinicBookingSystemAPP.Controllers
 
         public PatientsController(ClinicDbContext context)
         {
-            _context = context;
+            _context = context ;
         }
 
         // GET: Patients
@@ -30,7 +30,7 @@ namespace ClinicBookingSystemAPP.Controllers
 
             var patient = await _context.Patients
                 .FirstOrDefaultAsync(p => p.Id == id);
-
+             
             if (patient == null)
                 return NotFound();
 
@@ -114,7 +114,7 @@ namespace ClinicBookingSystemAPP.Controllers
         }
 
         // POST: Patients/Delete/5
-        [HttpPost, ActionName("Delete")]
+        [HttpDelete, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {

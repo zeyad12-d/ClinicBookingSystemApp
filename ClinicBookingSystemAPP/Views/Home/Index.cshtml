@@ -1,12 +1,27 @@
 ﻿@{
-    ViewData["Title"] = "Patients List";
+    ViewData["Title"] = "الرئيسية";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Welcome to the Clinic Booking System</h1>
-<p>This is the Patients page.</p>
-@{
-    ViewData["Title"] = "Patients List";
-}
 
-<h1>Welcome to the Clinic Booking System</h1>
-<p>This is the Patients page.</p>
+<link rel="stylesheet" href="~/css/site.css" />
+<div class="container">
+    <div class="over-lay-1"></div>
+    <div class="wellcome">
+        <h1><span>مرحبًا بك</span> في عيادة الحياة</h1>
+        <p>قم بحجز موعد أو إدارة بيانات المرضى والممرضين بكل سهولة</p>
+
+        <div class="container-ul">
+            <ul class="ul">
+                <li><a href="/Appointments/Create">حجز موعد</a></li>
+                <li><a href="/Patients/Create">إضافة مريض</a></li>
+                <li><a href="/Patients/"> عرض المرضئ</a></li>
+            </ul>
+            <ul class="ul">
+                <li><a href="/Doctors">عرض الأطباء</a></li>
+                <li><a href="/Nurses">عرض الممرضين</a></li>
+                <li><a href="/Appointments">عرض المواعيد</a></li>
+            </ul>
+        </div>
+    </div>
+</div>

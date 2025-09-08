@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jAUN7dfwSuz6ao9W62/ub0iYyJXVqwhN1truT7T5T0w=",
+  "Hash": "k4tR/FuqXcENAXORR3dkklg+Zlm/sr95djCTkl9kh+g=",
   "Source": "ClinicBookingSystemAPP",
   "BasePath": "_content/ClinicBookingSystemAPP",
   "Mode": "Default",
@@ -1277,6 +1277,111 @@
       "OriginalItemSpec": "C:\\Users\\Officemax\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.15\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+      "Identity": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\CreateAppoiments.css",
+      "SourceId": "ClinicBookingSystemAPP",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\",
+      "BasePath": "_content/ClinicBookingSystemAPP",
+      "RelativePath": "css/CreateAppoiments#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kz0hyalbie",
+      "Integrity": "wAbfQ+C2v/rjRwreX0e3LNIV3RztOGQGY+AQI0Peq+I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\CreateAppoiments.css"
+    },
+    {
+      "Identity": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\patientCreate.css",
+      "SourceId": "ClinicBookingSystemAPP",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\",
+      "BasePath": "_content/ClinicBookingSystemAPP",
+      "RelativePath": "css/patientCreate#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8sd83nevja",
+      "Integrity": "OMnQ9lfrYK7KVMfCOe+nHszZNaAZUDq98LR4pD/QGys=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\patientCreate.css"
+    },
+    {
+      "Identity": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\patientDelete.css",
+      "SourceId": "ClinicBookingSystemAPP",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\",
+      "BasePath": "_content/ClinicBookingSystemAPP",
+      "RelativePath": "css/patientDelete#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yqq2oeims0",
+      "Integrity": "6qPSy1FHg44d27+yusnApR+m28G3EfPCuJPRfuH/aWc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\patientDelete.css"
+    },
+    {
+      "Identity": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\patientdetails.css",
+      "SourceId": "ClinicBookingSystemAPP",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\",
+      "BasePath": "_content/ClinicBookingSystemAPP",
+      "RelativePath": "css/patientdetails#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mbl2l0ct0f",
+      "Integrity": "jvK16f+HXNqzTtDObwF1oDSCu8K0kYZUb+21ot4q6Ck=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\patientdetails.css"
+    },
+    {
+      "Identity": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\PatientIndex.css",
+      "SourceId": "ClinicBookingSystemAPP",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\",
+      "BasePath": "_content/ClinicBookingSystemAPP",
+      "RelativePath": "css/PatientIndex#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lwqp19o43u",
+      "Integrity": "dTmZ/A6YQPYE98BM/YewmBP+Ule7gCNU/N4SVKLPxIA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\PatientIndex.css"
+    },
+    {
       "Identity": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\site.css",
       "SourceId": "ClinicBookingSystemAPP",
       "SourceType": "Discovered",
@@ -1291,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "tvjp4o94s3",
-      "Integrity": "F1uPLJsVX12EfDrx0t6+4SVKVhm5UOD8XEWI3qsqodE=",
+      "Fingerprint": "znxegasceo",
+      "Integrity": "79mtNA4xBnhQqVpQK5C94AScRXcf/ws1h8VoNKWRmi8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2539,6 +2644,416 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/CreateAppoiments.css",
+      "AssetFile": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\CreateAppoiments.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wAbfQ+C2v/rjRwreX0e3LNIV3RztOGQGY+AQI0Peq+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 18:43:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wAbfQ+C2v/rjRwreX0e3LNIV3RztOGQGY+AQI0Peq+I="
+        }
+      ]
+    },
+    {
+      "Route": "css/CreateAppoiments.kz0hyalbie.css",
+      "AssetFile": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\CreateAppoiments.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wAbfQ+C2v/rjRwreX0e3LNIV3RztOGQGY+AQI0Peq+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 18:43:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kz0hyalbie"
+        },
+        {
+          "Name": "label",
+          "Value": "css/CreateAppoiments.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wAbfQ+C2v/rjRwreX0e3LNIV3RztOGQGY+AQI0Peq+I="
+        }
+      ]
+    },
+    {
+      "Route": "css/patientCreate.8sd83nevja.css",
+      "AssetFile": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\patientCreate.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1846"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OMnQ9lfrYK7KVMfCOe+nHszZNaAZUDq98LR4pD/QGys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 17:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8sd83nevja"
+        },
+        {
+          "Name": "label",
+          "Value": "css/patientCreate.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OMnQ9lfrYK7KVMfCOe+nHszZNaAZUDq98LR4pD/QGys="
+        }
+      ]
+    },
+    {
+      "Route": "css/patientCreate.css",
+      "AssetFile": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\patientCreate.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1846"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OMnQ9lfrYK7KVMfCOe+nHszZNaAZUDq98LR4pD/QGys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 17:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OMnQ9lfrYK7KVMfCOe+nHszZNaAZUDq98LR4pD/QGys="
+        }
+      ]
+    },
+    {
+      "Route": "css/patientDelete.css",
+      "AssetFile": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\patientDelete.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1203"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6qPSy1FHg44d27+yusnApR+m28G3EfPCuJPRfuH/aWc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 18:00:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6qPSy1FHg44d27+yusnApR+m28G3EfPCuJPRfuH/aWc="
+        }
+      ]
+    },
+    {
+      "Route": "css/patientDelete.yqq2oeims0.css",
+      "AssetFile": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\patientDelete.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1203"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6qPSy1FHg44d27+yusnApR+m28G3EfPCuJPRfuH/aWc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 18:00:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yqq2oeims0"
+        },
+        {
+          "Name": "label",
+          "Value": "css/patientDelete.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6qPSy1FHg44d27+yusnApR+m28G3EfPCuJPRfuH/aWc="
+        }
+      ]
+    },
+    {
+      "Route": "css/patientdetails.css",
+      "AssetFile": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\patientdetails.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jvK16f+HXNqzTtDObwF1oDSCu8K0kYZUb+21ot4q6Ck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 17:48:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jvK16f+HXNqzTtDObwF1oDSCu8K0kYZUb+21ot4q6Ck="
+        }
+      ]
+    },
+    {
+      "Route": "css/patientdetails.mbl2l0ct0f.css",
+      "AssetFile": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\patientdetails.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jvK16f+HXNqzTtDObwF1oDSCu8K0kYZUb+21ot4q6Ck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 17:48:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mbl2l0ct0f"
+        },
+        {
+          "Name": "label",
+          "Value": "css/patientdetails.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jvK16f+HXNqzTtDObwF1oDSCu8K0kYZUb+21ot4q6Ck="
+        }
+      ]
+    },
+    {
+      "Route": "css/PatientIndex.css",
+      "AssetFile": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\PatientIndex.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dTmZ/A6YQPYE98BM/YewmBP+Ule7gCNU/N4SVKLPxIA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 17:31:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dTmZ/A6YQPYE98BM/YewmBP+Ule7gCNU/N4SVKLPxIA="
+        }
+      ]
+    },
+    {
+      "Route": "css/PatientIndex.lwqp19o43u.css",
+      "AssetFile": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\PatientIndex.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dTmZ/A6YQPYE98BM/YewmBP+Ule7gCNU/N4SVKLPxIA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 17:31:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lwqp19o43u"
+        },
+        {
+          "Name": "label",
+          "Value": "css/PatientIndex.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dTmZ/A6YQPYE98BM/YewmBP+Ule7gCNU/N4SVKLPxIA="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -2549,7 +3064,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "602"
+          "Value": "1401"
         },
         {
           "Name": "Content-Type",
@@ -2557,11 +3072,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"F1uPLJsVX12EfDrx0t6+4SVKVhm5UOD8XEWI3qsqodE=\""
+          "Value": "\"79mtNA4xBnhQqVpQK5C94AScRXcf/ws1h8VoNKWRmi8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 13:12:58 GMT"
+          "Value": "Thu, 22 May 2025 16:58:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2571,12 +3086,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-F1uPLJsVX12EfDrx0t6+4SVKVhm5UOD8XEWI3qsqodE="
+          "Value": "sha256-79mtNA4xBnhQqVpQK5C94AScRXcf/ws1h8VoNKWRmi8="
         }
       ]
     },
     {
-      "Route": "css/site.tvjp4o94s3.css",
+      "Route": "css/site.znxegasceo.css",
       "AssetFile": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2586,7 +3101,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "602"
+          "Value": "1401"
         },
         {
           "Name": "Content-Type",
@@ -2594,11 +3109,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"F1uPLJsVX12EfDrx0t6+4SVKVhm5UOD8XEWI3qsqodE=\""
+          "Value": "\"79mtNA4xBnhQqVpQK5C94AScRXcf/ws1h8VoNKWRmi8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 13:12:58 GMT"
+          "Value": "Thu, 22 May 2025 16:58:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2608,7 +3123,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tvjp4o94s3"
+          "Value": "znxegasceo"
         },
         {
           "Name": "label",
@@ -2616,7 +3131,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-F1uPLJsVX12EfDrx0t6+4SVKVhm5UOD8XEWI3qsqodE="
+          "Value": "sha256-79mtNA4xBnhQqVpQK5C94AScRXcf/ws1h8VoNKWRmi8="
         }
       ]
     },

@@ -4,20 +4,21 @@
     ViewData["Title"] = "Patients List";
 }
 
-<h2>@ViewData["Title"]</h2>
+<link rel="stylesheet" href="~/css/PatientIndex.css" />
+
+
 
 <p>
-    <a asp-action="Create" class="btn btn-primary">Add New Patient</a>
+    <a asp-action="Create" class="btn-custom">Add New Patient</a>
 </p>
 
-<table class="table table-striped">
+<table class="patients-table">
     <thead>
         <tr>
             <th>Full Name</th>
             <th>Phone Number</th>
             <th>Email</th>
-            <th>Date of Birth</th>
-            <th></th>
+            <th>Actions</th>
         </tr>
     </thead>
     <tbody>
@@ -28,9 +29,9 @@
                 <td>@patient.Phone</td>
                 <td>@patient.Email</td>
                 <td>
-                    <a asp-action="Details" asp-route-id="@patient.Id">Details</a> |
-                    <a asp-action="Edit" asp-route-id="@patient.Id">Edit</a> |
-                    <a asp-action="Delete" asp-route-id="@patient.Id">Delete</a>
+                    <a asp-action="Details" asp-route-id="@patient.Id" class="action-link details">Details</a>
+                    <a asp-action="Edit" asp-route-id="@patient.Id" class="action-link edit">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@patient.Id" class="action-link delete">Delete</a>
                 </td>
             </tr>
         }

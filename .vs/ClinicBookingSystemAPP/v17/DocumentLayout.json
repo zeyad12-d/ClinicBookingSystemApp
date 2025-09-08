@@ -3,64 +3,52 @@
   "WorkspaceRootPath": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\views\\patients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\views\\patients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\views\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\views\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\views\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\views\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\wwwroot\\css\\patientcreate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\wwwroot\\css\\patientcreate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\wwwroot\\css\\createappoiments.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\wwwroot\\css\\createappoiments.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\wwwroot\\css\\patientdetails.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\wwwroot\\css\\patientdetails.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\migrations\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\migrations\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|d:\\c .net\\mvc projects and days\\clinicbookingsystemapp\\clinicbookingsystemapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{110B9430-3840-4E31-B8C3-8A46BF2D3847}|ClinicBookingSystemAPP\\ClinicBookingSystemAPP.csproj|solutionrelative:clinicbookingsystemapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,204 +58,155 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ClinicBookingSystemAPP\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Migrations\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\Migrations\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Migrations\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ClinicBookingSystemAPP\\Migrations\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T12:13:41.265Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "create.cshtml",
-              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Views\\Patients\\create.cshtml",
-              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\Views\\Patients\\create.cshtml",
-              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Views\\Patients\\create.cshtml",
-              "RelativeToolTip": "ClinicBookingSystemAPP\\Views\\Patients\\create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T13:38:24.427Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "ClinicBookingSystemAPP\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T13:05:36.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\appsettings.json",
-              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\appsettings.json",
-              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\appsettings.json",
-              "RelativeToolTip": "ClinicBookingSystemAPP\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-19T13:05:35.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ClinicBookingSystemAPP\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T13:05:16.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "site.js",
-              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\wwwroot\\js\\site.js",
-              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "ClinicBookingSystemAPP\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-19T13:04:50.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "ClinicBookingSystemAPP\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-19T13:02:21.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Patient.cs",
-              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Models\\Patient.cs",
-              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\Models\\Patient.cs",
-              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Models\\Patient.cs",
-              "RelativeToolTip": "ClinicBookingSystemAPP\\Models\\Patient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T12:34:42.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PatientsController.cs",
-              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Controllers\\PatientsController.cs",
-              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\Controllers\\PatientsController.cs",
-              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Controllers\\PatientsController.cs",
-              "RelativeToolTip": "ClinicBookingSystemAPP\\Controllers\\PatientsController.cs",
-              "ViewState": "AgIAAAkAAAAAqpmZmRkewGsAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T12:26:53.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ClinicBookingSystemAPP\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAgAAACAy8zMzMwowB0AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-19T13:21:19.635Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ClinicBookingSystemAPP\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAUAAACAMDMzMzMLwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T15:35:27.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Views\\Patients\\Delete.cshtml",
-              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\Views\\Patients\\Delete.cshtml",
-              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Views\\Patients\\Delete.cshtml",
-              "RelativeToolTip": "ClinicBookingSystemAPP\\Views\\Patients\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T13:45:10.087Z",
-              "EditorCaption": ""
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\Controllers\\PatientsController.cs",
+              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "ClinicBookingSystemAPP\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAA0AAAAAEDMzMzPjvxUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:44:50.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Views\\Appointments\\Create.cshtml",
+              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\Views\\Appointments\\Create.cshtml",
+              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Views\\Appointments\\Create.cshtml",
+              "RelativeToolTip": "ClinicBookingSystemAPP\\Views\\Appointments\\Create.cshtml",
+              "ViewState": "AgIAABEAAAAAODMzMzMbwAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T18:21:47.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ClinicBookingSystemAPP\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T18:33:57.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Program.cs",
               "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\Program.cs",
               "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Program.cs",
               "RelativeToolTip": "ClinicBookingSystemAPP\\Program.cs",
-              "ViewState": "AgIAAB4AAADAMzMzM3MvwAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T11:59:17.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Appointment.cs",
-              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Models\\Appointment.cs",
-              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\Models\\Appointment.cs",
-              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Models\\Appointment.cs",
-              "RelativeToolTip": "ClinicBookingSystemAPP\\Models\\Appointment.cs",
-              "ViewState": "AgIAAAcAAADAzMzMzMw/wA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T11:47:37.031Z",
-              "EditorCaption": ""
+              "DocumentIndex": 8,
+              "Title": "CreateAppoiments.css",
+              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\CreateAppoiments.css",
+              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\wwwroot\\css\\CreateAppoiments.css",
+              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\CreateAppoiments.css",
+              "RelativeToolTip": "ClinicBookingSystemAPP\\wwwroot\\css\\CreateAppoiments.css",
+              "ViewState": "AgIAACUAAAAAzczMzMwcwFsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-23T18:38:47.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Models\\Doctor.cs",
-              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\Models\\Doctor.cs",
-              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Models\\Doctor.cs",
-              "RelativeToolTip": "ClinicBookingSystemAPP\\Models\\Doctor.cs",
-              "ViewState": "AgIAAAgAAABA//////8fwA8AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T11:44:55.807Z",
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Views\\Patients\\create.cshtml",
+              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\Views\\Patients\\create.cshtml",
+              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Views\\Patients\\create.cshtml",
+              "RelativeToolTip": "ClinicBookingSystemAPP\\Views\\Patients\\create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T21:44:37.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\Controllers\\DepartmentController.cs",
-              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "ClinicBookingSystemAPP\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T11:29:09.977Z",
-              "EditorCaption": ""
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Views\\Appointments\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\Views\\Appointments\\Index.cshtml",
+              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\Views\\Appointments\\Index.cshtml",
+              "RelativeToolTip": "ClinicBookingSystemAPP\\Views\\Appointments\\Index.cshtml",
+              "ViewState": "AgIAAA8AAABA/////38pwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T19:20:38.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "patientCreate.css",
+              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\patientCreate.css",
+              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\wwwroot\\css\\patientCreate.css",
+              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\patientCreate.css",
+              "RelativeToolTip": "ClinicBookingSystemAPP\\wwwroot\\css\\patientCreate.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-23T21:59:03.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "patientdetails.css",
+              "DocumentMoniker": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\patientdetails.css",
+              "RelativeDocumentMoniker": "ClinicBookingSystemAPP\\wwwroot\\css\\patientdetails.css",
+              "ToolTip": "D:\\c .net\\MVC Projects and Days\\ClinicBookingSystemAPP\\ClinicBookingSystemAPP\\wwwroot\\css\\patientdetails.css",
+              "RelativeToolTip": "ClinicBookingSystemAPP\\wwwroot\\css\\patientdetails.css",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-23T17:47:53.199Z"
             }
           ]
         }
